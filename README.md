@@ -8,5 +8,8 @@ und Kontur, Rastereinstellung und Dateien importieren.
 Mit diesen Kennnissen ist es möglich, eine Inkscape-Zeichnung zu erstellen.
 
 
-svg2shenzhen 0.2.18.7
+SVG-PCP Extension:
+Inkscape V1.0: svg2shenzhen 0.2.18.7
 https://github.com/badgeek/svg2shenzhen/releases/tag/0.2.18.7
+
+(Inkscape V0.92: svg2shenzhen 0.2.17)
