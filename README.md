@@ -7,9 +7,14 @@ Erstellen von Texten erklärt. Weitere Themen sind das Arbeiten mit Ebenen, Fül
 und Kontur, Rastereinstellung und Dateien importieren.
 Mit diesen Kennnissen ist es möglich, eine Inkscape-Zeichnung zu erstellen.
 
+----------------------------------------------------------------------
+Für PCP-Erstellung SVG->PCP Extensions:
+Die Erweiterung entpacken und in das Verzeichnis "C:\Users\User\AppData\Roaming\inkscape\extensions" kopieren.
 
-SVG-PCP Extension:
 Inkscape V1.0: svg2shenzhen 0.2.18.7
 https://github.com/badgeek/svg2shenzhen/releases/tag/0.2.18.7
 
 (Inkscape V0.92: svg2shenzhen 0.2.17)
+https://github.com/kfranky/Inkscape-Workshop-I/blob/master/svg2shenzhen-extension-0.2.17.zip
+
+
