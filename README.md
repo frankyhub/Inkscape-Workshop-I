@@ -1,5 +1,5 @@
 # Inkscape-Workshop-I
-!(https://github.com/frankyhub/png/blob/master/ink.png)
+![inkscape](https://github.com/frankyhub/png/blob/master/ink.png)
 
 Ziel des Workshops
 Der Inkscape-Workshop soll die erforderlichen Kenntnisse und Fertigkeiten vermitteln,
