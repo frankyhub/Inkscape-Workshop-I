@@ -19,4 +19,7 @@ https://github.com/badgeek/svg2shenzhen/releases/tag/0.2.18.7
 (Inkscape V0.92: svg2shenzhen 0.2.17)
 https://github.com/kfranky/Inkscape-Workshop-I/blob/master/svg2shenzhen-extension-0.2.17.zip
 
+## Brettl-Motiv
+![image](https://github.com/frankyhub/Inkscape-Workshop-I/blob/master/AloisiusV1-3png.png)
+
 
