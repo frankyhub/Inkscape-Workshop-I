@@ -10,7 +10,7 @@ und Kontur, Rastereinstellung und Dateien importieren.
 Mit diesen Kennnissen ist es möglich, eine Inkscape-Zeichnung zu erstellen.
 
 ----------------------------------------------------------------------
-Für PCP-Erstellung SVG-Extensions:
+Für PCB-Erstellung SVG-Extensions:
 Die Erweiterung entpacken und in das Verzeichnis "C:\Users\User\AppData\Roaming\inkscape\extensions" kopieren.
 
 Inkscape V1.0: svg2shenzhen 0.2.18.7
